@@ -1,2 +1,2 @@
 # oop-tasks
-The codes for object oriented programming lecture's laboratory part.
+These files are for the object-oriented programming lab session.
